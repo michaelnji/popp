@@ -1,6 +1,6 @@
 {
-  "name": "svelte-app",
-  "version": "1.0.0",
+  "name": "popp",
+  "version": "0.0.1",
   "@comments scripts": {
     "dev": "develop with blazing fast rebuilds",
     "dev:features": "develop with features like SSR and serviceworker enabled",
